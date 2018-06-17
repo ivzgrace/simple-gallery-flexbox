@@ -6,4 +6,5 @@ Files:<br>
 index.html<br>
 style.css
 
-see complete guide to flexbox https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+see complete guide to flexbox https://css-tricks.com/snippets/css/a-guide-to-flexbox/<br>
+demo: https://ivzgrace.github.io/simple-gallery-flexbox/
